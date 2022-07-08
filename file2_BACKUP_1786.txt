@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-asdasdasd
-=======
-bbb
->>>>>>> parent of ccbee80 (a)
